@@ -10,5 +10,4 @@ int main()
         sum*=i;
     }
     print(sum);
-    cout<<sum<<endl;
 }
