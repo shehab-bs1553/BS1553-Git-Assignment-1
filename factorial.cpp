@@ -9,7 +9,7 @@ int main()
     {
         sum*=i;
     }
-   cout<< "shihab hossain abir"<<endl;
+   shihab hossain
    cout<<sum<<endl;
    cout<< "Love the BS23 environment"<<endl;
 }
