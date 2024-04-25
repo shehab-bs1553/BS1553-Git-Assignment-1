@@ -9,5 +9,6 @@ int main()
     {
         sum*=i;
     }
+    shihab hossain abir 
     cout<<sum<<endl;
 }
